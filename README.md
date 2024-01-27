@@ -20,7 +20,7 @@ A simple GUI Calculator implemented in Python using the Tkinter library.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ShivanshKothari/gui-calculator.git
+    git clone https://github.com/ShivanshKothari/gui-calculator
     cd gui-calculator
     ```
 
