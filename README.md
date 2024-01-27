@@ -38,8 +38,8 @@ A simple GUI Calculator implemented in Python using the Tkinter library.
 - Press "D" to delete the last entered digit.
 
 ## Screenshots
+![image](https://github.com/ShivanshKothari/gui-calculator/assets/105049306/af266f42-e1a6-4c6b-bb36-b1752af0d86d)
 
-Include screenshots or GIFs of your calculator in action.
 
 ## Contributing
 
